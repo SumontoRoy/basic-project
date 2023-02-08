@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+/* header part start */
+.header-section{
+    background-image: url(../images/banner/banner3.png);
+    background-size: cover;
+    padding: 215px 200px 160px;
+}
+.header-content{
+    width: 525px;
+    margin-left: auto;
+    text-align: right;
+}
+.header-content h1{
+    font-size: 65px;
+    font-weight: 700;
+    color: #FFFFFF;
+    margin-bottom: 24px;
+}
+.header-content p{
+    color: #FFFFFF;
+    margin-bottom: 42px;
+}
+.header-content a{
+    font-size: 20px;
+    font-weight: 600;
+    color: #005FAC;
+    background-color: #FFFFFF;
+    padding: 16px 25px;
+    border-radius: 5px;
+}
+/* header part end */
+main{
+    padding: 0px 200px
+}
+/* failure part start */
+.failure-section{
+    padding: 130px 0;
+    display: flex;
+}
+.failure-img{
+    
+}
+/* failure part end */
