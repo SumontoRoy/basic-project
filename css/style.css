@@ -46,10 +46,10 @@ main{
     justify-content: space-between;
 }
 .failure-img{
-
+    margin-right: 80px;
 }
 .failure-content{
-margin-left: 80px;
+
 }
 .failure-content h2{
 font-size: 40px;
