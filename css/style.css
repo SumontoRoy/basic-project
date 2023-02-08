@@ -42,8 +42,29 @@ main{
 .failure-section{
     padding: 130px 0;
     display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 .failure-img{
-    
+
+}
+.failure-content{
+margin-left: 80px;
+}
+.failure-content h2{
+font-size: 40px;
+font-weight: 700;
+}
+.failure-description p{
+    margin: 24px 0px 16px;
+    color: #444343;
+}
+.failure-item p{
+    color: #444343;
+    margin-bottom: 8px;
+}
+.failure-item i{
+    color: #16D887;
+    margin-right: 6px;
 }
 /* failure part end */
