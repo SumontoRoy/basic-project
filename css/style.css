@@ -98,6 +98,33 @@ font-weight: 700;
 }
 /* plan part end */
 
+/* video part start */
+.video-section{
+    display: flex;
+    margin-top: 130px;
+    align-items: center;
+    justify-content: space-between;
+}
+.video{
+    width: 50%;
+}
+.video iframe{
+    width: 100%;
+    border-radius: 5px;
+}
+.video-content{
+    width: 40%;
+}
+.video-content h2{
+    margin-bottom: 30px;
+    font-size: 40px;
+font-weight: 700;
+}
+.video-content p{
+    color: #444343;
+}
+/* video part end */
+
 /* mindset part start */
 .mindset-section{
     margin: 130px 0px;
