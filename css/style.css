@@ -119,38 +119,37 @@ main {
 
 /* plan part end */
 
-/* video part start */
-.video-section {
+/* technology part start */
+.technology-section {
     display: flex;
     margin-top: 130px;
     align-items: center;
     justify-content: space-between;
 }
 
-.video {
+.technology-img {
     width: 50%;
 }
 
-.video iframe {
+.technology-img img {
     width: 100%;
-    border-radius: 5px;
 }
 
-.video-content {
+.technology-content {
     width: 40%;
 }
 
-.video-content h2 {
+.technology-content h2 {
     margin-bottom: 30px;
     font-size: 40px;
     font-weight: 700;
 }
 
-.video-content p {
+.technology-content p {
     color: #444343;
 }
 
-/* video part end */
+/* technology part end */
 
 /* mindset part start */
 .mindset-section {
